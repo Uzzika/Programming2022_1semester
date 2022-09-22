@@ -1,0 +1,3 @@
+﻿  Time_Data.c
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDataTime\Time_Data.c(19,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  InputDataTime.vcxproj -> C:\Users\itmm-2213-a\source\repos\TerminalClass\x64\Debug\InputDataTime.exe

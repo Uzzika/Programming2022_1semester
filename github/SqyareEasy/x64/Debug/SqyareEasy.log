@@ -1,0 +1,4 @@
+﻿  square.c
+C:\Users\itmm-2213-a\source\repos\TerminalClass\SqyareEasy\square.c(20,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\itmm-2213-a\source\repos\TerminalClass\SqyareEasy\square.c(24,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  SqyareEasy.vcxproj -> C:\Users\itmm-2213-a\source\repos\TerminalClass\x64\Debug\SqyareEasy.exe
