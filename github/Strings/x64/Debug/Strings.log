@@ -1,0 +1,5 @@
+﻿  strings.c
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\Strings\strings.c(6,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\Strings\strings.c(7,12): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\Strings\strings.c(7,7): warning C4024: puts: различные типы для формального и фактического параметров 1
+  Strings.vcxproj -> C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\x64\Debug\Strings.exe
